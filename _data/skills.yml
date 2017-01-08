@@ -1,0 +1,16 @@
+-   id: php
+    descr: php    
+    xp: 8
+-   id: css
+    descr: css
+    color: teal
+    xp: 5
+-   id: c#
+    descr: c#    
+    xp: 4
+-   id: java
+    descr: java    
+    xp: 4
+-   id: jquery
+    descr: jquery    
+    xp: 5
