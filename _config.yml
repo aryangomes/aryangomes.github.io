@@ -1,19 +1,43 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
-
 # Site settings
-title: Aryan Gomes - My Portfolio
+title: Aryan Gomes - Web Developer
+description: 
+baseurl: '' # for test: remove string '/space-jekyll-templa' to ''
+url: "http://aryangomes.github.io" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https:yourusername.githu.io'
+# User settings
+username: aryangomes
+user_title: Aryan Gomes
 email: aryan.gomes@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-      Template by <a href='https://github.com/nikrich/jekyll-slender-template'>Jannik Richter</a>
-baseurl: "/aryangomes" # the subpath of your site, e.g. /blog
-url: "http://aryangomes.github.io" # the base hostname & protocol for your site
 twitter_username: _aryangomes
 github_username:  aryangomes
 
 # Build settings
 markdown: kramdown
+highlighter: rouge
+permalink: /:title/
+
+
+# html minify
+compress_html:
+  clippings: all
+  comments: all
+  endings: []
+  profile: false
+
+# Links to include in menu navigation
+links:
+  - title: home
+    url: /
+  - title: about me
+    url: /about
+# projects in header index
+projects:
+  - name: ControladorFinanceiroApp
+    url: 
+  - name: Sistema de Gerência de Lanchonete(SGL)
+    url: https://github.com/aryangomes/applanchonete
+  - name: Sistema de Automação de Biblioteca "Librorum"
+    url: 
+  - name: Sistema de Gerência de Dizimistas
+    url: 
+# exclude my node related stuff
+exclude: ['package.json', 'src', 'node_modules']

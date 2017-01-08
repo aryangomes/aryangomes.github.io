@@ -1,0 +1,44 @@
+---
+layout: minimal
+title: "About me"
+permalink: /about/index.html
+description: "Some description about Aryan Gomes..."
+---
+
+<img itemprop="image" class="img-rounded about_perfil" src="/assets/img/profile.jpg" alt="Aryan Gomes">
+
+
+<h2>About me</h2>
+
+<p>
+	Natural de Currais Novos, Rio Grande do Norte, Brasil. É Técnico em Informática pelo  Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte(IFRN). Atualmente é estudante do curso de Tecnologia em Sistemas para Internet no IFRN.
+</p>
+
+<h2>My skills</h2>
+	<ul>
+		<li>PHP</li>
+		<li>Javascript</li>
+		<li>C#</li>
+		<li>Java</li>
+
+	</ul>
+
+<h2>My projects</h2>
+
+<div class="aboutme">
+	<ul class="recent">
+		{% for project in site.projects %}
+	    	<li><a href="{{ project.url}}"><h2 class="post-title" itemprop="name">{{ project.name }}</h2></a></li>
+	    {% endfor %}
+	</ul>
+
+<h2>Others</h2>
+
+<ul>
+	<li><a href="http://lattes.cnpq.br/8067263863076419">Currículo Lattes</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=com.br.prosim.prosim">ProSim (Android)</a></li>
+
+
+</ul>
+
+</div>
