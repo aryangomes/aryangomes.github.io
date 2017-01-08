@@ -2,7 +2,7 @@
     <div class="content">
 
         <div class="person">
-            <img alt="My photo" src="assets/img/blog-author.jpg" alt="">
+            <img alt="Eu!" src="assets/img/blog-author.jpg" alt="">
         </div>
 
         <h1>
@@ -10,26 +10,26 @@
         </h1>
 
         <div class="icons-home">
-            <a aria-label="Send email" title="Send me a e-mail" href="mailto:{{site.email}}">
+            <a aria-label="Send email" title="Envie um email" href="mailto:{{site.email}}">
                 <svg class="icon icon-email"><use xlink:href="#icon-email"></use></svg>
             </a>
 
-            <a aria-label="My Twitter" title="Follow me on Twitter" target="_blank" href="https://twitter.com/{{site.twitter_username}}">
+            <a aria-label="My Twitter" title="Siga-me no Twitter" target="_blank" href="https://twitter.com/{{site.twitter_username}}">
                 <svg class="icon icon-twitter"><use xlink:href="#icon-twitter"></use></svg>
             </a>
 
 
-            <a aria-label="My Github" title="Show my projetcts" target="_blank" href="https://github.com/{{site.github_username}}">
+            <a aria-label="My Github" title="Veja meus projetos" target="_blank" href="https://github.com/{{site.github_username}}">
                 <svg class="icon icon-github-alt"><use xlink:href="#icon-github-alt"></use></svg>
             </a>
 
-             <a aria-label="My Github" title="About Me" target="_blank" href="about">
+             <a aria-label="My Github" title="Sobre mim" target="_blank" href="about">
                 <svg class="icon icon-search"><use xlink:href="#icon-search"></use></svg>
             </a>
 
-            <a aria-label="Use the RSS to get updated" title="Register for my RSS" target="_blank" href="{{ "/feed.xml" | prepend: site.baseurl }}">
+           <!--  <a aria-label="Use the RSS to get updated" title="Register for my RSS" target="_blank" href="{{ "/feed.xml" | prepend: site.baseurl }}">
                 <svg class="icon icon-rss"><use xlink:href="#icon-rss"></use></svg>
-            </a>
+            </a> -->
         </div>
 
        <!--  <ul class="recent">
@@ -44,7 +44,7 @@
         </ul> -->
 
         <ul class="recent">
-            <p>Projects developed:</p>
+            <p>Projetos desenvolvidos:</p>
              {% for project in site.projects limit:%}
                 <li>
                     <a title="Show my recent project" href="{{ project.url}}">

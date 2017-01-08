@@ -27,7 +27,7 @@ compress_html:
 links:
   - title: home
     url: /
-  - title: about me
+  - title: sobre mim
     url: /about
 # projects in header index
 projects:
