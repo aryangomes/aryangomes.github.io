@@ -1,5 +1,5 @@
 # Site settings
-title: Aryan Gomes - Web Developer
+title: Aryan Gomes
 description: 
 baseurl: '' # for test: remove string '/space-jekyll-templa' to ''
 url: "http://aryangomes.github.io" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https:yourusername.githu.io'
