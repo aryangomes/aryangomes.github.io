@@ -5,8 +5,8 @@
     <description></description>
     <link>http://aryangomes.github.io/</link>
     <atom:link href="http://aryangomes.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 05 Feb 2017 11:58:15 -0300</pubDate>
-    <lastBuildDate>Sun, 05 Feb 2017 11:58:15 -0300</lastBuildDate>
+    <pubDate>Sun, 05 Feb 2017 12:01:44 -0300</pubDate>
+    <lastBuildDate>Sun, 05 Feb 2017 12:01:44 -0300</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -16,7 +16,7 @@
         <link>http://aryangomes.github.io/sistema-gerencia-dizimistas/</link>
         <guid isPermaLink="true">http://aryangomes.github.io/sistema-gerencia-dizimistas/</guid>
         
-        <category>mongodb</category>
+        <category>aryangomes, sgd</category>
         
         
         <category>Projetos Desenvolvidos</category>

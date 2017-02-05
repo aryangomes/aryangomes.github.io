@@ -4,8 +4,8 @@ title:  "Sistema de Gerência de Dizimistas"
 image: ''
 date:   2017-02-05 11:24:31
 tags:
-- mongodb
-description: ''
+- aryangomes, sgd
+description: 'Sistema de Gerência de Dizimistas'
 categories:
 - Projetos Desenvolvidos
 serie: projetos
