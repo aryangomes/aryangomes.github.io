@@ -32,8 +32,8 @@
             </a> -->
         </div>
 
-       <!--  <ul class="recent">
-            <p>Recent posts:</p>
+        <ul class="recent">
+            <p><a href="/posts" style="color:#fff">Posts recentes:</a></p>
              {% for post in site.posts limit:3%}
                 <li>
                     <a title="Will take a my recent post" href="{{ post.url | prepend: site.baseurl }}">
@@ -41,10 +41,10 @@
                     </a>
                 </li>
               {% endfor %}
-        </ul> -->
+        </ul>
 
         <ul class="recent">
-            <p>Projetos desenvolvidos:</p>
+            <p><a href="/posts" style="color:#fff">Projetos desenvolvidos:</a></p>
              {% for project in site.projects limit:%}
                 <li>
                     <a title="Show my recent project" href="{{ project.url}}">

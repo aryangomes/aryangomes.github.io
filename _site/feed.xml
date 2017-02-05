@@ -5,9 +5,23 @@
     <description></description>
     <link>http://aryangomes.github.io/</link>
     <atom:link href="http://aryangomes.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 10 Jan 2017 16:45:46 -0300</pubDate>
-    <lastBuildDate>Tue, 10 Jan 2017 16:45:46 -0300</lastBuildDate>
+    <pubDate>Sun, 05 Feb 2017 11:58:15 -0300</pubDate>
+    <lastBuildDate>Sun, 05 Feb 2017 11:58:15 -0300</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Sistema de Gerência de Dizimistas</title>
+        <description>&lt;p&gt;O Sistema de Gerência de Dizimistas é um sistema para gerenciar o dizimistas. Com ele você poderá:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Gerenciar o cadastro de dizimistas&lt;/li&gt; &lt;li&gt;Gerenciar o pagamento do dízimo&lt;/li&gt; &lt;li&gt;Listar os aniversariantes do mês&lt;/li&gt; &lt;li&gt;Listar os aniversariantes de casamento do mês&lt;/li&gt; &lt;li&gt;Gerar o PDF dos aniversariantes dos dizimistas e de casamento do mês&lt;/li&gt; &lt;/ul&gt; &lt;figcaption&gt; &lt;p&gt;Tela de Login&lt;/p&gt; &lt;/figcaption&gt; &lt;figure class=&quot;foto-legenda&quot;&gt; &lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/2017-02-05-sistema-gerencia-dizimistas/printsgd1.jpg&quot; alt=&quot;Tela de Login&quot; /&gt; &lt;/figure&gt; &lt;figure class=&quot;foto-legenda&quot;&gt; &lt;figcaption&gt; &lt;p&gt;Tela Principal&lt;/p&gt; &lt;/figcaption&gt; &lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/2017-02-05-sistema-gerencia-dizimistas/printsgd2.jpg&quot; alt=&quot;Tela Principal&quot; /&gt; &lt;/figure&gt; &lt;figure class=&quot;foto-legenda&quot;&gt; &lt;figcaption&gt; &lt;p&gt;Tela de listagem de dizimistas&lt;/p&gt; &lt;/figcaption&gt; &lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/2017-02-05-sistema-gerencia-dizimistas/printsgd3.jpg&quot; alt=&quot;Tela de listagem de dizimistas&quot; /&gt; &lt;/figure&gt;...</description>
+        <pubDate>Sun, 05 Feb 2017 08:24:31 -0300</pubDate>
+        <link>http://aryangomes.github.io/sistema-gerencia-dizimistas/</link>
+        <guid isPermaLink="true">http://aryangomes.github.io/sistema-gerencia-dizimistas/</guid>
+        
+        <category>mongodb</category>
+        
+        
+        <category>Projetos Desenvolvidos</category>
+        
+      </item>
     
   </channel>
 </rss>
