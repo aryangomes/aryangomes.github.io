@@ -39,5 +39,7 @@ projects:
     url: 
   - name: Sistema de Gerência de Dizimistas
     url: /sistema-gerencia-dizimistas
+  - name: App Prosim
+    url: /prosim
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']

@@ -5,9 +5,23 @@
     <description></description>
     <link>http://aryangomes.github.io/</link>
     <atom:link href="http://aryangomes.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 05 Feb 2017 12:01:44 -0300</pubDate>
-    <lastBuildDate>Sun, 05 Feb 2017 12:01:44 -0300</lastBuildDate>
+    <pubDate>Sat, 11 Feb 2017 19:31:17 -0300</pubDate>
+    <lastBuildDate>Sat, 11 Feb 2017 19:31:17 -0300</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>App Prosim</title>
+        <description>&lt;p&gt;Converta números decimais em números binários ou em hexadecimais, ou ainda converta um binário em hexadecimal e vice-versa&lt;/p&gt; &lt;h3&gt;Operações disponíveis:&lt;/h3&gt; &lt;ul&gt; &lt;li&gt;ADD&lt;/li&gt; &lt;li&gt;AND&lt;/li&gt; &lt;li&gt;MOVE&lt;/li&gt; &lt;li&gt;OR&lt;/li&gt; &lt;li&gt;XOR&lt;/li&gt; &lt;li&gt;COMPARE&lt;/li&gt; &lt;li&gt;INC (Incremento)&lt;/li&gt; &lt;li&gt;NEG (Negação)&lt;/li&gt; &lt;li&gt;SUB (Subtração)&lt;/li&gt; &lt;/ul&gt; &lt;figcaption&gt; &lt;p&gt;Tela Principal&lt;/p&gt; &lt;/figcaption&gt; &lt;figure class=&quot;foto-legenda&quot;&gt; &lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/2017-02-11-prosim/Capturar1.PNG&quot; alt=&quot;Tela Principal&quot; /&gt; &lt;/figure&gt; &lt;figcaption&gt; &lt;p&gt;Tela de conversão Decimal-Binário&lt;/p&gt; &lt;/figcaption&gt; &lt;figure class=&quot;foto-legenda&quot;&gt; &lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/2017-02-11-prosim/Capturar2.PNG&quot; alt=&quot;Tela de conversão Decimal-Binário&quot; /&gt; &lt;/figure&gt; &lt;figcaption&gt; &lt;p&gt;Tela de conversão Decimal-Hexadecimal&lt;/p&gt; &lt;/figcaption&gt; &lt;figure class=&quot;foto-legenda&quot;&gt; &lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/2017-02-11-prosim/Capturar3.PNG&quot; alt=&quot;Tela de conversão Decimal-Hexadecimal&quot; /&gt; &lt;/figure&gt; &lt;figcaption&gt; &lt;p&gt;Tela de conversão Binário-Hexadecimal&lt;/p&gt; &lt;/figcaption&gt; &lt;figure class=&quot;foto-legenda&quot;&gt; &lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/2017-02-11-prosim/Capturar4.PNG&quot; alt=&quot;Tela de conversão Binário-Hexadecimal&quot; /&gt; &lt;/figure&gt; &lt;h3 id=&quot;baixe-na-google-playhttpsplaygooglecomstoreappsdetailsidcombrprosimprosim&quot;&gt;Baixe...</description>
+        <pubDate>Sun, 05 Feb 2017 08:24:31 -0300</pubDate>
+        <link>http://aryangomes.github.io/prosim/</link>
+        <guid isPermaLink="true">http://aryangomes.github.io/prosim/</guid>
+        
+        <category>aryangomes, prosim</category>
+        
+        
+        <category>Projetos Desenvolvidos</category>
+        
+      </item>
     
       <item>
         <title>Sistema de Gerência de Dizimistas</title>
