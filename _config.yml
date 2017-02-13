@@ -4,7 +4,7 @@ description:
 baseurl: '' # for test: remove string '/space-jekyll-templa' to ''
 url: "http://aryangomes.github.io" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https:yourusername.githu.io'
 # User settings
-username: aryangomes
+username: desenvolvedor back-end
 user_title: Aryan Gomes
 email: aryan.gomes@gmail.com
 twitter_username: _aryangomes
