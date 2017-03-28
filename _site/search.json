@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Sistema de Automação de Biblioteca LIBRORUM",
+      "category" : "Projetos Desenvolvidos",
+      "tags"     : "aryangomes, librorum",
+      "url"      : "/sistema-gerencia-biblioteca-librorum/",
+      "date"     : "28 Mar 2017"
+    } ,
+  
+    {
       "title"    : "App Prosim",
       "category" : "Projetos Desenvolvidos",
       "tags"     : "aryangomes, prosim",

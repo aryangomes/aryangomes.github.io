@@ -5,9 +5,23 @@
     <description></description>
     <link>http://aryangomes.github.io/</link>
     <atom:link href="http://aryangomes.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 13 Feb 2017 15:15:22 -0300</pubDate>
-    <lastBuildDate>Mon, 13 Feb 2017 15:15:22 -0300</lastBuildDate>
+    <pubDate>Tue, 28 Mar 2017 11:43:04 -0300</pubDate>
+    <lastBuildDate>Tue, 28 Mar 2017 11:43:04 -0300</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Sistema de Automação de Biblioteca LIBRORUM</title>
+        <description>&lt;p&gt;Sistema de Automação de Biblioteca &lt;i&gt;LIBRORUM&lt;/i&gt; é um sistema para gerenciar uma biblioteca. Com ele você poderá:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Gerenciar cadastros do Acervo e seus exemplares&lt;/li&gt; &lt;li&gt;Gerenciar cadastros de Usuários&lt;/li&gt; &lt;li&gt;Gerenciar cadastros de Empréstimos&lt;/li&gt; &lt;li&gt;Buscar no Acervo&lt;/li&gt; &lt;li&gt;Gerar relatórios de quantidade de empréstimos e quantidade de empréstimos com devolução&lt;/li&gt; &lt;li&gt;Listar os usuários suspensos&lt;/li&gt; &lt;li&gt;Listar os empréstimos sem devolução&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Desenvolvido por:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Aluísio Victor&lt;/li&gt; &lt;li&gt;Aryan Gomes&lt;/li&gt; &lt;li&gt;João Pedro&lt;/li&gt; &lt;li&gt;Luan Martins&lt;/li&gt; &lt;/ul&gt; &lt;figcaption&gt; &lt;p&gt;Tela Inicial&lt;/p&gt; &lt;/figcaption&gt; &lt;figure class=&quot;foto-legenda&quot;&gt; &lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/2017-03-28-sistema-gerencia-biblioteca-librorum/telainicial_guest.png&quot; alt=&quot;Tela Inicial&quot; /&gt; &lt;/figure&gt; &lt;figcaption&gt; &lt;p&gt;Tela de Login&lt;/p&gt; &lt;/figcaption&gt; &lt;figure class=&quot;foto-legenda&quot;&gt; &lt;img class=&quot;img-responsive&quot; src=&quot;/assets/img/2017-03-28-sistema-gerencia-biblioteca-librorum/login.png&quot; alt=&quot;Tela de Login&quot; /&gt; &lt;/figure&gt; &lt;figcaption&gt; &lt;p&gt;Tela...</description>
+        <pubDate>Tue, 28 Mar 2017 08:00:31 -0300</pubDate>
+        <link>http://aryangomes.github.io/sistema-gerencia-biblioteca-librorum/</link>
+        <guid isPermaLink="true">http://aryangomes.github.io/sistema-gerencia-biblioteca-librorum/</guid>
+        
+        <category>aryangomes, librorum</category>
+        
+        
+        <category>Projetos Desenvolvidos</category>
+        
+      </item>
     
       <item>
         <title>App Prosim</title>

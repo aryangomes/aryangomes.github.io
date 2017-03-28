@@ -36,7 +36,7 @@ projects:
   - name: Sistema de Gerência de Lanchonete(SGL)
     url: https://github.com/aryangomes/applanchonete
   - name: Sistema de Automação de Biblioteca "Librorum"
-    url: 
+    url: /sistema-gerencia-biblioteca-librorum
   - name: Sistema de Gerência de Dizimistas
     url: /sistema-gerencia-dizimistas
   - name: App Prosim
