@@ -4,10 +4,10 @@ title:  "Sistema de Automação de Biblioteca LIBRORUM"
 image: ''
 date:   2017-03-28 11:00:31
 tags:
-- aryangomes, librorum
+- aryangomes, librorum, yii2
 description: 'Sistema de Automação de Biblioteca LIBRORUM'
 categories:
-- Projetos Desenvolvidos
+- Projetos Desenvolvidos, Yii2
 serie: projetos
 ---
 

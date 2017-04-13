@@ -4,10 +4,10 @@ title:  "Sistema de Gerência de Dizimistas"
 image: ''
 date:   2017-02-05 11:24:31
 tags:
-- aryangomes, sgd
+- aryangomes, sgd, yii2
 description: 'Sistema de Gerência de Dizimistas'
 categories:
-- Projetos Desenvolvidos
+- Projetos Desenvolvidos,Yii2
 serie: projetos
 ---
 
